@@ -19,7 +19,7 @@ int main(){
 	printf("*p=%d\n",*p);
 
 	func3(&dp);
-	printf("**dp=%d\n",**dp);
+	printf("**dp=%d\n",**dp);// wonsick//
 	
 	func4(&tp);
 	printf("***tp=%d\n",***tp);
